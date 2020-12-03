@@ -7,5 +7,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samiit/bear_prediction/HEAD?urlpath=%2Fvoila%2Frender%2F02_production_deployment.ipynb)
 
 ## App preview
-<img src="./app_screen_shot.png" width="250">
+<img src="./app_screen_shot.png" width="300">
 <!---(https://mybinder.org/v2/gh/samiit/bear_prediction/HEAD?urlpath=%2Fvoila%2Frender%2F02_production_deployment.ipynb) --->
